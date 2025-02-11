@@ -17,4 +17,6 @@ Datas e conteúdos das aulas:
 1. [Aula 01](https://www.youtube.com/live/8cKuB0PfqTs?si=IEU125k3DrRx31h8) com o tema "Criando a Base: Front-End do Aplicativo" no canal [@HashtagProgramacao](https://www.youtube.com/@HashtagProgramacao);
 2. [Drive](https://drive.google.com/drive/folders/1_otlml4QSqqkbexREoL0-mwO-SH2kn90) com os arquivos da primeira aula;
 3. [Aula 02](https://www.youtube.com/live/JkakNVjhXqM?si=uyesVlMdJyewX7Ic) com o tema "Estruturando Dados: Trabalhando com Back-End e APIs" no canal [@HashtagProgramacao](https://www.youtube.com/@HashtagProgramacao);
-4. [Drive](https://drive.google.com/drive/folders/1kIE7AK1PI2qcpr-kMNDK-vMuUQMSFdrz) com os arquivos da segunda aula.
+4. [Drive](https://drive.google.com/drive/folders/1kIE7AK1PI2qcpr-kMNDK-vMuUQMSFdrz) com os arquivos da segunda aula;
+5. [Aula 03](https://www.youtube.com/live/oPLOZfqk7qQ?si=NB4v3hkyPeOJGZdW) no canal [@HashtagProgramacao](https://www.youtube.com/@HashtagProgramacao);
+6. [Aula 04](https://www.youtube.com/live/6PwcILaFgCc?si=wLET3hjq3ykbRe4W) no canal [@HashtagProgramacao](https://www.youtube.com/@HashtagProgramacao).
